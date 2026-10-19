@@ -1,0 +1,1 @@
+{"name":"recurio-plus","private":true,"type":"module","scripts":{"start":"python server.py","test":"node --test tests/*.test.js"}}
